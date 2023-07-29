@@ -6,8 +6,8 @@ import os
 
 class Config(object):
     # get a token from @BotFather
-    BOT_TOKEN = "6047785902:AAGT-_mx4Gx-GK3zUshtrqmbjUPxoGx0NF8"
-    API_ID = "24250238"
-    API_HASH = "cb3f118ce5553dc140127647edcf3720"
-    AUTH_USERS = '6175650047'
+    BOT_TOKEN = "6518790189:AAH18Rn2TSpRV2cDrFVF-Ruqy9CrChZ-F1s"
+    API_ID = "20717621"
+    API_HASH = "a68af155e7f0c79b1baab1f185f4181d"
+    AUTH_USERS = '5934830127'
 
